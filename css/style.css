@@ -1,0 +1,12 @@
+body {
+  background-color: white;
+  background-image: url("../images/regal.png");
+}
+
+.container {
+  background-color: black;
+}
+
+#carouselExampleControls {
+  margin: auto;
+}
